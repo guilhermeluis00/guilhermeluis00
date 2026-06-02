@@ -2,13 +2,11 @@
 
 **`Desenvolvedor Backend em Formação`**
 
-🎓 Estudante de Desenvolvimento de Sistemas
+Olá! Meu nome é Luis Guilherme e sou estudante de Desenvolvimento de Sistemas, apaixonado por tecnologia e programação. Atualmente, estou focado em me especializar no desenvolvimento backend, dedicando meus estudos à criação de APIs, modelagem de bancos de dados e construção de aplicações escaláveis e eficientes.
 
-💻 Focado em desenvolvimento backend, bancos de dados e APIs REST
+Busco constantemente aprimorar minhas habilidades por meio de projetos práticos, explorando tecnologias como JavaScript, Node.js, Express e PostgreSQL. Acredito que a melhor forma de aprender é transformando teoria em prática, por isso estou sempre desenvolvendo novos projetos e enfrentando desafios que contribuam para meu crescimento como desenvolvedor.
 
-📚 Sempre estudando novas tecnologias e aprimorando minhas habilidades através de projetos práticos
-
-⚙️ Construindo soluções eficientes, organizadas e escaláveis
+Meu objetivo é construir soluções robustas, organizadas e seguras, aplicando boas práticas de desenvolvimento de software. Estou em constante evolução, aprendendo algo novo a cada dia e me preparando para atuar profissionalmente como desenvolvedor backend.
 
 🚀 Transformando aprendizado em código todos os dias
 

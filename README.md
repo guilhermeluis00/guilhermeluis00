@@ -12,13 +12,14 @@
 
 🚀 Transformando aprendizado em código todos os dias
 
+---
+
+## 🌎 Onde me encontrar
+
 <p align="left">
-  <a href="https://github.com/guilhermeluis00?tab=repositories&sort=stargazers">
-    <img
-      src="https://custom-icon-badges.demolab.com/github/stars/guilhermeluis00?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
-      alt="Total de estrelas"
-      title="Total de estrelas no GitHub"
-    />
+
+  <a href="https://github.com/guilhermeluis00">
+    <img src="https://img.shields.io/badge/GitHub-GUILHERMELUIS00-181717?style=for-the-badge&logo=github" />
   </a>
 
   <a href="https://github.com/guilhermeluis00?tab=followers">

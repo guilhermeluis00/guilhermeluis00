@@ -29,6 +29,10 @@
       title="Me siga no GitHub"
     />
   </a>
+
+  <a href="https://www.instagram.com/gulherme.luis_/">
+    <img src="https://img.shields.io/badge/Instagram-@GULHERME.LUIS__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 </p>
 
 ---

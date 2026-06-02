@@ -2,11 +2,16 @@
 
 **`Desenvolvedor de Software`**
 
-Olá! Me chamo Luis Guilherme e sou apaixonado por tecnologia e desenvolvimento de software.
+🎓 Estudante de Desenvolvimento de Sistemas
 
-Atuo na criação de aplicações, APIs e soluções que unem desempenho, escalabilidade e boas práticas de desenvolvimento. Estou sempre buscando aprender novas tecnologias, aprimorar minhas habilidades e contribuir para projetos que gerem impacto real.
+💻 Interessado em desenvolvimento backend, bancos de dados e APIs
 
-Tenho interesse em desenvolvimento backend, bancos de dados, arquitetura de sistemas e automação de processos, além de estar constantemente explorando ferramentas modernas do ecossistema de software.
+📚 Sempre estudando novas tecnologias e aprimorando minhas habilidades através de projetos práticos
+
+⚙️ Focado em criar soluções eficientes, organizadas e escaláveis
+
+🚀 Transformando aprendizado em código todos os dias
+
 
 <p align="left">
   <a href="https://github.com/guilhermeluis00?tab=repositories&sort=stargazers">

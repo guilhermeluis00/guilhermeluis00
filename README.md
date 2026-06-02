@@ -22,13 +22,9 @@
     <img src="https://img.shields.io/badge/GitHub-GUILHERMELUIS00-181717?style=for-the-badge&logo=github" />
   </a>
 
-  <a href="https://github.com/guilhermeluis00?tab=followers">
-    <img
-      src="https://custom-icon-badges.demolab.com/github/followers/guilhermeluis00?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-      alt="Seguidores"
-      title="Me siga no GitHub"
-    />
-  </a>
+  <a href="https://www.linkedin.com/in/luis-guilherme-saraiva-feitosa-65a7b9397/">
+    <img src="https://img.shields.io/badge/LinkedIn-Luis%20Guilherme-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
   <a href="https://www.instagram.com/gulherme.luis_/">
     <img src="https://img.shields.io/badge/Instagram-@gulherme.luis__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />

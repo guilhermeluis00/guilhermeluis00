@@ -50,6 +50,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-or
 <img align="left" alt="Prisma" title="Prisma ORM" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg"/>
 
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+
 <br clear="left"/>
 
 <br/>

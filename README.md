@@ -1,17 +1,16 @@
 # 👨‍💻 Luis Guilherme
 
-**`Desenvolvedor de Software`**
+**`Desenvolvedor Backend em Formação`**
 
 🎓 Estudante de Desenvolvimento de Sistemas
 
-💻 Interessado em desenvolvimento backend, bancos de dados e APIs
+💻 Focado em desenvolvimento backend, bancos de dados e APIs REST
 
 📚 Sempre estudando novas tecnologias e aprimorando minhas habilidades através de projetos práticos
 
-⚙️ Focado em criar soluções eficientes, organizadas e escaláveis
+⚙️ Construindo soluções eficientes, organizadas e escaláveis
 
 🚀 Transformando aprendizado em código todos os dias
-
 
 <p align="left">
   <a href="https://github.com/guilhermeluis00?tab=repositories&sort=stargazers">
@@ -31,54 +30,31 @@
   </a>
 
   <a href="https://www.instagram.com/gulherme.luis_/">
-    <img src="https://img.shields.io/badge/Instagram-@GULHERME.LUIS__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+    <img src="https://img.shields.io/badge/Instagram-@gulherme.luis__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 🚀 Tecnologias e Ferramentas
 
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-
-<img align="left" alt="NodeJS" title="Node.js" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-
-<img align="left" alt="Express" title="Express" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
-
-<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-
-<img align="left" alt="Prisma" title="Prisma ORM" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg"/>
-
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-
-<br clear="left"/>
-
-<br/>
-<br/>
+<p align="left">
+  <img alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img alt="NodeJS" title="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img alt="Express" title="Express.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
+  <img alt="PostgreSQL" title="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img alt="Prisma" title="Prisma ORM" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg"/>
+  <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+</p>
 
 ---
 
-## 📊 Estatísticas do Github
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
-</p>
+## 📊 Estatísticas do GitHub
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=guilhermeluis00&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeluis00&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 

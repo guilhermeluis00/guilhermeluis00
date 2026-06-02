@@ -1,8 +1,8 @@
-# 👨‍💻 Guilherme Luís
+# 👨‍💻 Luis Guilherme
 
 **`Desenvolvedor de Software`**
 
-Olá! Me chamo Guilherme Luís e sou apaixonado por tecnologia e desenvolvimento de software.
+Olá! Me chamo Luis Guilherme e sou apaixonado por tecnologia e desenvolvimento de software.
 
 Atuo na criação de aplicações, APIs e soluções que unem desempenho, escalabilidade e boas práticas de desenvolvimento. Estou sempre buscando aprender novas tecnologias, aprimorar minhas habilidades e contribuir para projetos que gerem impacto real.
 
@@ -30,29 +30,22 @@ Tenho interesse em desenvolvimento backend, bancos de dados, arquitetura de sist
 
 ## 🚀 Tecnologias e Ferramentas
 
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 
 <img align="left" alt="NodeJS" title="Node.js" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+
+<img align="left" alt="Express" title="Express" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
 
 <img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 
-<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+<img align="left" alt="Prisma" title="Prisma ORM" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg"/>
 
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-
-<img align="left" alt="Docker" title="Docker" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
-
-<img align="left" alt="Linux" title="Linux" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
+<br clear="left"/>
 
 <br/>
 <br/>

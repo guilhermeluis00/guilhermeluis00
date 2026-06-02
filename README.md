@@ -60,21 +60,22 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p>
+<div align="center">
   <img
-    align="left"
-    height="180"
+    height="180em"
     src="https://github-readme-stats.vercel.app/api?username=guilhermeluis00&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
-
   <img
-    align="left"
-    height="180"
+    height="180em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeluis00&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
   />
-</p>
+</div>
+
+<div align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermeluis00&theme=tokyonight"
+  />
+</div>
 
 <br/>
 <br/>

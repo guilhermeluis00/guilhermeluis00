@@ -60,6 +60,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
 ---
 
+## 📊 Estatísticas do Github
 <div align="center">
   <img
     height="180em"

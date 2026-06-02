@@ -55,11 +55,4 @@
 
 ---
 
-## 🌎 Onde me encontrar
-
-- GitHub: https://github.com/guilhermeluis00
-- LinkedIn: https://www.linkedin.com/in/luis-guilherme-saraiva-feitosa-65a7b9397/
-
----
-
 ⭐ Sempre aberto a novos desafios, aprendizados e colaborações em projetos de tecnologia.

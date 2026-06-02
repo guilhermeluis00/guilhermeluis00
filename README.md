@@ -92,7 +92,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 ## 🌎 Onde me encontrar
 
 - GitHub: https://github.com/guilhermeluis00
-- LinkedIn: Adicione seu LinkedIn aqui
+- LinkedIn: https://www.linkedin.com/in/luis-guilherme-saraiva-feitosa-65a7b9397/
 
 ---
 

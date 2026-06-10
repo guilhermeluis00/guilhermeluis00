@@ -20,7 +20,7 @@ Meu objetivo é construir soluções robustas, organizadas e seguras, aplicando 
     <img src="https://img.shields.io/badge/GitHub-GUILHERMELUIS00-181717?style=for-the-badge&logo=github" />
   </a>
 
-  <a href="https://www.linkedin.com/in/luis-guilherme-saraiva-feitosa-65a7b9397/">
+  <a href="https://www.linkedin.com/in/luis-guilherme-65a7b9397/">
     <img src="https://img.shields.io/badge/LinkedIn-Luis%20Guilherme-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 

@@ -1,6 +1,6 @@
 # 👨‍💻 Luis Guilherme
 
-**`Desenvolvedor Backend em Formação`**
+**`Desenvolvedor FullStack em Formação`**
 
 Olá! Meu nome é Luis Guilherme e sou estudante de Desenvolvimento de Sistemas, apaixonado por tecnologia e programação. Atualmente, estou focado em me especializar no desenvolvimento backend, dedicando meus estudos à criação de APIs, modelagem de bancos de dados e construção de aplicações escaláveis e eficientes.
 

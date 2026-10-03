@@ -6,7 +6,7 @@ Olá! Meu nome é Luis Guilherme e sou estudante de Desenvolvimento de Sistemas,
 
 Busco constantemente aprimorar minhas habilidades por meio de projetos práticos, explorando tecnologias como JavaScript, Node.js, Express e PostgreSQL. Acredito que a melhor forma de aprender é transformando teoria em prática, por isso estou sempre desenvolvendo novos projetos e enfrentando desafios que contribuam para meu crescimento como desenvolvedor.
 
-Meu objetivo é construir soluções robustas, organizadas e seguras, aplicando boas práticas de desenvolvimento de software. Estou em constante evolução, aprendendo algo novo a cada dia e me preparando para atuar profissionalmente como desenvolvedor backend.
+Meu objetivo é construir soluções robustas, organizadas e seguras, aplicando boas práticas de desenvolvimento de software. Estou em constante evolução, aprendendo algo novo a cada dia e me preparando para atuar profissionalmente como desenvolvedor Fullstack.
 
 🚀 Transformando aprendizado em código todos os dias
 

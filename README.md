@@ -4,7 +4,7 @@
 
 Olá! Meu nome é Luis Guilherme e sou estudante de Desenvolvimento de Sistemas, apaixonado por tecnologia e programação. Atualmente, estou focado em me especializar no desenvolvimento backend, dedicando meus estudos à criação de APIs, modelagem de bancos de dados e construção de aplicações escaláveis e eficientes.
 
-Busco constantemente aprimorar minhas habilidades por meio de projetos práticos, explorando tecnologias como JavaScript, Node.js, Express e PostgreSQL. Acredito que a melhor forma de aprender é transformando teoria em prática, por isso estou sempre desenvolvendo novos projetos e enfrentando desafios que contribuam para meu crescimento como desenvolvedor.
+Busco constantemente aprimorar minhas habilidades por meio de projetos práticos, explorando tecnologias como JavaScript, TypeScript, Node.js, Express e PostgreSQL. Acredito que a melhor forma de aprender é transformando teoria em prática, por isso estou sempre desenvolvendo novos projetos e enfrentando desafios que contribuam para meu crescimento como desenvolvedor.
 
 Meu objetivo é construir soluções robustas, organizadas e seguras, aplicando boas práticas de desenvolvimento de software. Estou em constante evolução, aprendendo algo novo a cada dia e me preparando para atuar profissionalmente como desenvolvedor Fullstack.
 
@@ -22,11 +22,12 @@ Meu objetivo é construir soluções robustas, organizadas e seguras, aplicando 
 
   <a href="https://www.linkedin.com/in/luis-guilherme-65a7b9397/">
     <img src="https://img.shields.io/badge/LinkedIn-Luis%20Guilherme-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+  </a>
 
   <a href="https://www.instagram.com/gulherme.luis_/">
     <img src="https://img.shields.io/badge/Instagram-@gulherme.luis__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+
 </p>
 
 ---
@@ -36,11 +37,13 @@ Meu objetivo é construir soluções robustas, organizadas e seguras, aplicando 
 ### Frontend
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=fff)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
